@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yeahdef.github.io/al-folio/sitemap.xml
+Sitemap: https://yeahdef.github.io/sitemap.xml
